@@ -11,5 +11,4 @@ Made with HTML Foundation including:
 -Links and Images
 
 
-
 Thanks to The Odin Project for this project
